@@ -64,10 +64,6 @@
   </div>
 
   &nbsp;
-
-  <div align="center">
-    <img src="https://img.shields.io/github/watchers/FredyM7/FredyM7?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FFredyM7%2F" alt="GitHub Watchers"/>
-  </div>
   
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=3000&pause=1000&color=BDBDBD&width=435&lines=Thanks+for+visiting+my+GitHub+profile!" alt="Typing SVG"/>
