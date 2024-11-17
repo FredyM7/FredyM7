@@ -60,6 +60,7 @@
     <a target="_blank" href="https://www.linkedin.com"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg" height="30" 
        width="40" alt="LinkedIn"></a>
     <a target="_blank" href="https://instagram.com/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram</a>
+    &nbsp;
   </div>
 
   &nbsp;
