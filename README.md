@@ -23,23 +23,23 @@
 
   <h4>Languages</h4>
   <span>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/JAVA-white?style=for-the-badge&logo=openjdk&labelColor=black&color=FFD546" alt="Java">
   </span>
 
   <h4>Databases</h4>
   <span>
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=black&color=0388EA" alt="MySQL">
   </span>  
   
   <h4>IDE</h4>
   <span>
-    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Intellij IDE">
+    <img src="https://img.shields.io/badge/INTELLIJ%20IDEA-white?style=for-the-badge&logo=intellijidea&logoColor=white&logoSize=auto&labelColor=black&color=B71DD5" alt="Intellij IDE">
   </span>
   
   <h4>Other Tools and Technologies</h4>
   <span>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git&logoColor=white&logoSize=auto&labelColor=black&color=FA3C15" alt="Git">
+    <img src="https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=black&color=black&link=https%3A%2F%2Fgithub.com%2FFredyM7%2F" alt="Git">
   </span>
 
 </section>
@@ -55,19 +55,19 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FredyM7&theme=light&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
   </details>
   
-  <h4 align="center">🙋‍♂️ Connect with me:</h4>
-  <p align="center">
+  <div align="center">
+    <h4 align="center">🙋‍♂️ Connect with me:</h4>
     <a target="_blank" href="https://www.linkedin.com"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg" height="30" 
        width="40" alt="LinkedIn"></a>
     <a target="_blank" href="https://instagram.com/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram</a>
-  </p>
+  </div>
 
-  <!-- PROFILE VIEWS -->
-  <p align="center">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg? 
-       url=https%3A%2F%2Fgithub.com%2FFredyM7%2F&count_bg=%2378A5F9&title_bg=%23F7AD41&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
-  </p>
+  &nbsp;
 
+  <div align="center">
+    <img src="https://img.shields.io/github/watchers/FredyM7/FredyM7?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FFredyM7%2F" alt="GitHub Watchers"/>
+  </div>
+  
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=3000&pause=1000&color=BDBDBD&width=435&lines=Thanks+for+visiting+my+GitHub+profile!" alt="Typing SVG"/>
   </div>
@@ -76,7 +76,8 @@
 
 <!--
 USED:
-1. Icons: https://github.com/devicons/devicon/tree/v2.14.0/icons
-2. Typing effect: https://readme-typing-svg.herokuapp.com/demo/
+1. Typing effect: https://readme-typing-svg.herokuapp.com/demo/
+2. Badges: https://shields.io/badges/
+3. Icons: https://github.com/devicons/devicon/tree/master/icons
 
 -->
