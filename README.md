@@ -57,13 +57,13 @@
   
   <div align="center">
     <h4 align="center">🙋‍♂️ Connect with me:</h4>
-    <a target="_blank" href="https://www.linkedin.com"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg" height="30" 
-       width="40" alt="LinkedIn"></a>
-    <a target="_blank" href="https://instagram.com/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram</a>
-    &nbsp;
+    <a target="_blank" href="https://www.linkedin.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/PNG/Color/LinkedIN.png" width="35" alt="LinkedIn"></a>
+    <a target="_blank" href="https://instagram.com/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" width="35" alt="Instagram</a>
   </div>
 
-  &nbsp;
+  <br><br>
+  
+  ![](https://komarev.com/ghpvc/?username=FredyM7&color=yellow)
   
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=3000&pause=1000&color=BDBDBD&width=435&lines=Thanks+for+visiting+my+GitHub+profile!" alt="Typing SVG"/>
