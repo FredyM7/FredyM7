@@ -7,7 +7,7 @@
   
   <p>I am a systems engineering student, focusing on back-end development and continuously expanding my knowledge in the field. I enjoy learning new skills and technologies, and I am passionate about growing professionally.</p>
   <ul>
-    <li><strong>🔭 I’m currently studying:</strong> Spring Framework, Spring Boot</li>
+    <li><strong>🔭 I’m currently studying:</strong> Web Security</li>
     <li><strong>💡 I'm interested in all things software:</strong> Backend Development, System Design</li>
     <li><strong>💬 Talk to me about:</strong> Books, Philosophy, Science, anything that interests you.</li>
     <li><strong>📫 Reach out to me at:</strong> <a href="mailto:munera.fredy@hotmail.com">munera.fredy@hotmail.com</a></li>
